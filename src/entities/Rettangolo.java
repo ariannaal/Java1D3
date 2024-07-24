@@ -33,3 +33,4 @@ public class Rettangolo {
         return base * altezza;
     }
 }
+

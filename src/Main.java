@@ -12,7 +12,6 @@ public class Main {
         Rettangolo r2 = new Rettangolo(3, 6);
         Rettangolo.stampaDueRettangoli(r1, r2);
 
-
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
 
