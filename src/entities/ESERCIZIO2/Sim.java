@@ -21,7 +21,6 @@ public class Sim {
         System.out.println("Credito disponibile: " + creditoDisponibile);
 
         for (int i = 0; i < listaChiamate.length; i++) {
-
             System.out.println("Chiamata nr. " + i + " numero: " + listaChiamate[i].getNumeroChiamato() + " durata: " + listaChiamate[i].getDurataChiamata() + "minuti");
         }
 
